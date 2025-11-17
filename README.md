@@ -58,8 +58,6 @@ Example scenario:
 > Students living in Denton often rely on public transportation to get to Schol campus. While buses are available, they do not reach all neighborhoods, and even the closest stops may require an additional ride. Some students need to travel between different parts of campus or nearby campuses, making transportation expensive, unreliable, or stressful—especially for last-minute trips. Driver Buddy helps students connect with verified peers traveling the same routes, making commuting safer, cheaper, and more predictable.
 
 
----
-
 ## 💡 The Solution
 
 Driver Buddy solves these issues by:
