@@ -1,1 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f5f5f5;
+}
 
+header {
+    background: #3f704d;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    padding: 50px;
+    text-align: center;
+    background: #eaf4ea;
+}
+
+.list li {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.solutions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 280px;
+    margin: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    text-align: center;
+}
