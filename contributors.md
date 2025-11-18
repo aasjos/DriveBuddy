@@ -1,16 +1,14 @@
 # Group Members Contributors
 This page documents each team member’s contributions to the *Driver Buddy* project.
 
-## Madiha
-### Problem Statement
+## Problem Statement - *Madiha*
 - Explained and outlined the main transportation challenges students face:  
 - High transportation costs
 - Limited transportation options  
 - Wasted car capacity  
 - Lack of networking opportunities  
 
-## Mairesse
-### Solution 
+## Solution - *Nairesse*
 **Student Carpool Matching**
 - Designed and partially implemented the carpool matching feature  
 - Explained the concept of GPS-based route matching and timing coordination  
@@ -30,8 +28,7 @@ This page documents each team member’s contributions to the *Driver Buddy* pro
 - Designed the driver verification process (license, insurance, driving record)  
 - Explained background checks and rating system for trust and accountability  
 
-## Aasmi
-### Solution 
+## *Aasmi*
 - Designed and implemented Smart Scheduling  
 - Explained the in-app Chat & Rating system  
 - Designed Eco-Friendly Incentives to encourage sustainable commuting  
@@ -40,6 +37,7 @@ This page documents each team member’s contributions to the *Driver Buddy* pro
 ### Monetization
 - Designed and implemented Subscription Plans and Freemium Model  
 - Explained and outlined potential University Partnerships  
+
 
 
 
