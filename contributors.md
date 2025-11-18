@@ -8,8 +8,9 @@ This page documents each team member’s contributions to the *Driver Buddy* pro
 - Wasted car capacity  
 - Lack of networking opportunities  
 
-## Solution 
+## Solution - *Mairesse & Aasmi*
 *Mairesse*
+
 **Student Carpool Matching**
 - Designed and partially implemented the carpool matching feature  
 - Explained the concept of GPS-based route matching and timing coordination  
@@ -37,6 +38,7 @@ This page documents each team member’s contributions to the *Driver Buddy* pro
 ## Monetization - *Aavash*
 - Designed and implemented Subscription Plans and Freemium Model  
 - Explained and outlined potential University Partnerships
+
 
 
 
