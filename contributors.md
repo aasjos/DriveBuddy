@@ -22,7 +22,6 @@ This page documents each team member’s contributions to the *Driver Buddy* pro
 **Affordable Subscription System**
 - Designed and partially implemented the subscription system  
 - Explained monthly and yearly subscription options and unlimited rides concept  
-- Outlined financial benefits for riders and drivers  
 - Ensured affordability is a key feature in design  
 
 **Verified Student Profiles**
@@ -38,6 +37,8 @@ This page documents each team member’s contributions to the *Driver Buddy* pro
 ## Monetization - *Aavash*
 - Designed and implemented Subscription Plans and Freemium Model  
 - Explained and outlined potential University Partnerships
+- Outlined financial benefits for riders and drivers  
+
 
 
 
