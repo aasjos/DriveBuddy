@@ -8,7 +8,8 @@ This page documents each team member’s contributions to the *Driver Buddy* pro
 - Wasted car capacity  
 - Lack of networking opportunities  
 
-## Solution - *Nairesse*
+## Solution 
+*Mairesse*
 **Student Carpool Matching**
 - Designed and partially implemented the carpool matching feature  
 - Explained the concept of GPS-based route matching and timing coordination  
@@ -28,15 +29,16 @@ This page documents each team member’s contributions to the *Driver Buddy* pro
 - Designed the driver verification process (license, insurance, driving record)  
 - Explained background checks and rating system for trust and accountability  
 
-## *Aasmi*
+*Aasmi*
 - Designed and implemented Smart Scheduling  
 - Explained the in-app Chat & Rating system  
 - Designed Eco-Friendly Incentives to encourage sustainable commuting  
 
-## Aavash
-### Monetization
+## Monetization - *Aavash*
 - Designed and implemented Subscription Plans and Freemium Model  
-- Explained and outlined potential University Partnerships  
+- Explained and outlined potential University Partnerships
+
+
 
 
 
