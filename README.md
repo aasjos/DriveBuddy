@@ -67,13 +67,11 @@ Driver Buddy solves these issues by:
 
 
 ## User Stories
-
-1. **As a student without a car**, I want affordable rides to campus, so I can get to class on time.
-2. **As a student with a car**, I want to offer rides to others, so I can earn money while driving to campus.
-3. **As a rider**, I want verified drivers with safe vehicles, so I feel secure.
-4. **As a driver**, I want limits on additional riders, so my route stays manageable.
-5. **As a student**, I want discounts if my school partners with Driver Buddy, so I pay a fair price easily.
-6. **As a student**, I want to rate my ride and provide feedback, so the platform remains trustworthy.
+- As a student without a car, I want affordable rides.  
+- As a driver, I want to earn money while going to campus.  
+- As a rider, I want verified drivers for safety.  
+- As a driver, I want limits on extra riders.  
+- As a student, I want campus discounts. 
 
 
 ## Monetization
