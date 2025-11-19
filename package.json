@@ -1,0 +1,16 @@
+{
+  "lint-staged": {
+    "*.{js,jsx}": [
+      "eslint --fix",
+      "prettier --write",
+      "git add"
+    ],
+    "*.{json,md}": [
+      "prettier --write",
+      "git add"
+    ],
+    "*.test.js": [
+      "npm test -- --findRelatedTests"
+    ]
+  }
+}
