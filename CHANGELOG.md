@@ -1,3 +1,5 @@
+# Changelog
+
 <div align="center">
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
@@ -7,9 +9,6 @@
 
 </div>
 
----
-
-# Changelog
 ## v1.0.0 (2025-11-25)
 
 ### Features
@@ -47,6 +46,7 @@
 
 ### Breaking Changes
 - None (v1.0.0 is fully backward compatible with v0.x prototypes)
+
 
 
 
