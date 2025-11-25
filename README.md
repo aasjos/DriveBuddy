@@ -1,124 +1,115 @@
 # Driver Buddy – Student Carpooling App
 
+<div align="center">
+  <img src="docs/logo.png" alt="Project Logo" width="200"/>
+  
+  [![Build Status](https://img.shields.io/github/workflow/status/aasjos/DriverBuddy/CI)](https://github.com/aasjos/DriverBuddy/actions)
+  [![Coverage](https://img.shields.io/codecov/c/github/aasjos/DriveBuddy)](https://codecov.io/gh/aasjos/DriveBuddy)
+  [![License](https://img.shields.io/github/license/aasjos/DriveBuddy)](LICENSE)
+  [![Version](https://img.shields.io/github/v/release/aasjos/DriveBuddy)](https://github.com/aasjos/DriveBuddy/releases)
+  
+  **Affordable, safe, and eco-friendly student carpooling**
+  
+  [Demo](https://demo-link.com) • [Documentation](https://docs-link.com) • [Report Bug](https://github.com/aasjos/DriveBuddy/issues)
+</div>
+
+
 ## Overview
 
 Driver Buddy is a mobile application designed to help **college and university students** share rides, save money, and travel safely with verified peers. The app uses smart-matching, scheduling, and in-app communication to make student carpooling simple and reliable.
 
 > Many students face challenges commuting between campuses or from off-campus locations: unreliable public transport, high ride costs, and wasted empty car seats. Driver Buddy connects students going the same way, making commuting affordable, safe, and social.
 
-## Features
-
-### Student Carpool Matching
-
-* Matches riders and drivers based on route similarity
-* Considers preferred travel times
-* Helps students connect who are going in the same direction
-* Optional additional rider feature: if a student is within 15 minutes of campus, the driver can be notified and asked if they can pick up an extra rider
-
-### Verified Student Profiles
-
-* University email verification
-* Driver background checks (insurance, no major accidents, no tickets)
-* Ensures safety and trust
-* Limits platform access to real students only
-
-### Smart Scheduling
-
-* Automatically suggests best ride times
-* Detects scheduling conflicts
-* Syncs with class schedules (optional)
-* Sends notifications and reminders before each ride
-
-### In-App Chat & Rating System
-
-* Built-in messaging to coordinate pickup/drop-off
-* Star rating system for drivers and riders
-* Allows feedback on ride experience and vehicle cleanliness
-* Option to report safety issues
-
-### Eco-Friendly Incentives
-
-* Earn “Green Points” for shared rides
-* Track CO₂ and fuel saved
-* Redeem points for campus discounts or coupons
-* Encourages sustainable commuting habits
 
 ## The Problem
-Students often face:
-* High transportation costs for rides and Uber/Lyft
-* Limited or unreliable public transportation, especially when switching campuses
-* Wasted empty seats in cars
-* Difficulty coordinating rides with peers
-* Missed opportunities to connect with other students, especially international students
 
-Example scenario:
-> Students living in Denton often rely on public transportation to get to Schol campus. While buses are available, they do not reach all neighborhoods, and even the closest stops may require an additional ride. Some students need to travel between different parts of campus or nearby campuses, making transportation expensive, unreliable, or stressful, especially for last-minute trips. Driver Buddy helps students connect with verified peers traveling the same routes, making commuting safer, cheaper, and more predictable.
+Students often face:  
 
+* High transportation costs for rides and Uber/Lyft  
+* Limited or unreliable public transportation  
+* Wasted empty seats in cars  
+* Difficulty coordinating rides with peers  
+* Missed opportunities to connect with other students  
+
+**Example scenario:**  
+> Students living in Denton often rely on public transportation to get to Schol campus. Buses may not reach all neighborhoods, requiring extra travel. Driver Buddy connects verified students traveling the same routes, making commuting safer, cheaper, and more predictable.
+
+---
 
 ## The Solution
 
-Driver Buddy solves these issues by:
-
-* Reliable, verified student carpooling
-* Low-cost subscription options with automatic discounts for partner schools (NCTC, UNT, TWU)
-* Smart scheduling automation with optional additional rider notifications
-* Real-time communication tools for coordination
-* Eco-friendly reward systems
+Driver Buddy solves these issues by:  
+* Reliable, verified student carpooling  
+* Low-cost subscription options with automatic discounts for partner schools (NCTC, UNT, TWU)  
+* Smart scheduling automation with optional additional rider notifications  
+* Real-time communication tools for coordination  
+* Eco-friendly reward systems  
 
 
 ## User Stories
-- As a student without a car, I want affordable rides.  
-- As a driver, I want to earn money while going to campus.  
-- As a rider, I want verified drivers for safety.  
-- As a driver, I want limits on extra riders.  
-- As a student, I want campus discounts. 
+
+* As a student without a car, I want affordable rides.  
+* As a driver, I want to earn money while going to campus.  
+* As a rider, I want verified drivers for safety.  
+* As a driver, I want limits on extra riders.  
+* As a student, I want campus discounts.  
+
+
+## ✨ Features
+
+- 🚀 **Fast**: Optimized performance  
+- 🔒 **Secure**: Industry-standard security  
+- 📱 **Responsive**: Works on all devices  
+- 🎨 **Customizable**: Flexible configuration  
+
+### Detailed Features
+
+#### Student Carpool Matching
+* Matches riders and drivers based on route similarity  
+* Considers preferred travel times  
+* Optional additional rider feature  
+
+#### Verified Student Profiles
+* University email verification  
+* Driver background checks  
+* Limits platform access to real students only  
+
+#### Smart Scheduling
+* Automatically suggests best ride times  
+* Detects scheduling conflicts  
+* Sends notifications and reminders  
+
+#### In-App Chat & Rating System
+* Built-in messaging  
+* Star rating system  
+* Option to report safety issues  
+
+#### Eco-Friendly Incentives
+* Earn “Green Points” for shared rides  
+* Track CO₂ and fuel saved  
+* Redeem points for campus discounts or coupons  
+
 
 
 ## Monetization
 
 ### Subscription Plans
-
-* Monthly and annual premium plans
-* Unlock unlimited rides & smart features
+* Monthly and annual premium plans  
+* Unlock unlimited rides & smart features  
 
 ### Freemium Model
-
-* Free tier includes basic matching
-* Premium includes priority matching + advanced tools
+* Free tier includes basic matching  
+* Premium includes priority matching + advanced tools  
 
 ### University Partnerships
+* Collaborations for sustainability programs  
+* Campus event carpooling  
+* University-backed safety features  
 
-* Collaborations for sustainability programs
-* Campus event carpooling
-* University-backed safety features
-
-<div align="center">
-  <img src="docs/logo.png" alt="Project Logo" width="200"/>
-  
-  # Project Name
-  
-  [![Build Status](https://img.shields.io/github/workflow/status/aasjos/DriverBuddy/CI)](https://github.com/aasjos/DriverBuddy/actions)
-  [![Coverage](https://img.shields.io/codecov/c/github/aasjos/DriveBuddy)](https://codecov.io/gh/aasjos/DriveBuddy)
-  [![License](https://img.shields.io/github/license/aasjos/DriveBuddy)](LICENSE)
-  [![Version](https://img.shields.io/github/v/release/aasjos/DriveBuddy)](https://github.comaasjos/DriveBuddy/releases)
-  https://github.com/aasjos/DriverBuddy/issues
-
-  
-  **One-line description that sells your project**
-  
-  [Demo](https://demo-link.com) • [Documentation](https://docs-link.com) • [Report Bug](https://github.com/aasjos/DriveBuddy/issues)
-</div>
-
-## ✨ Features
-
-- 🚀 **Fast**: Optimized performance
-- 🔒 **Secure**: Industry-standard security
-- 📱 **Responsive**: Works on all devices
-- 🎨 **Customizable**: Flexible configuration
 
 ## 📦 Installation
 
-\```bash
+```bash
 # Using npm
 npm install your-project
 
@@ -127,57 +118,4 @@ yarn add your-project
 
 # Using Docker
 docker run -p 3000:3000 username/project
-\```
 
-## 🚀 Quick Start
-
-\```javascript
-import { YourProject } from 'your-project';
-
-const app = new YourProject({
-  // Configuration
-});
-
-app.start();
-\```
-
-## 📖 Documentation
-
-See [full documentation](https://your-docs.com) for:
-- [Getting Started](docs/getting-started.md)
-- [API Reference](docs/api.md)
-- [Examples](docs/examples.md)
-- [Contributing](CONTRIBUTING.md)
-
-## 🧪 Testing
-
-\```bash
-# Run tests
-npm test
-
-# With coverage
-npm run test:coverage
-
-# Watch mode
-npm run test:watch
-\```
-
-## 📊 Performance
-
-| Operation | Time | Memory |
-|-----------|------|--------|
-| Startup | 120ms | 15MB |
-| Request | 8ms | 2MB |
-| Build | 2.3s | 45MB |
-
-## 🤝 Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for:
-- Code of Conduct
-- Development setup
-- Pull request process
-- Coding standards
-
-## 📝 License
-
-MIT © [DRIVERBUDDY](LICENSE)
