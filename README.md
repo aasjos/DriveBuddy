@@ -1,7 +1,7 @@
 # Driver Buddy – Student Carpooling App
 
 <div align="center">
-  <img src="https://i.postimg.cc/y6j0YBQJ/drive-buddy.png" alt="Project Logo" style="width: 330px; height: 450px;">
+  <img src="https://i.postimg.cc/ZnSvYs3s/drive-buddy.png" alt="Project Logo" style="width: 330px; height: 450px;">
 
   [![Build Status](https://img.shields.io/github/workflow/status/aasjos/DriverBuddy/CI)](https://github.com/aasjos/DriverBuddy/actions)
   [![Coverage](https://img.shields.io/codecov/c/github/aasjos/DriveBuddy)](https://codecov.io/gh/aasjos/DriveBuddy)
