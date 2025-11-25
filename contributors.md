@@ -3,9 +3,10 @@
 **Members:** Mairesse, Aasmi, Aavash, Madiha  
 **Date:** 2025-11-25  
 
-## 1. Release Process
+## 1. Release Process  
 
-Our team followed a professional release process using Git Flow and semantic versioning to ensure a structured and reliable delivery:
+Our team followed a structured **Git Flow workflow**, semantic versioning, protected branches, and PR reviews to deliver a production ready release.
+
 
 ### Feature Development
 
@@ -42,23 +43,32 @@ Semantic versioning (MAJOR.MINOR.PATCH) was applied:
 
 ---
 
-## 2. Team Contributions
+## 2. Team Contributions  
 
-| Team Member | Role | Contribution |
-|------------|------|-------------|
-| **Madiha** | Problem Analysis | Explained main transportation challenges: high costs, limited options, wasted car capacity, lack of networking opportunities |
-| **Mairesse** | Development | Designed and partially implemented Student Carpool Matching and Affordable Subscription System; GPS-based route matching, timing coordination, environmental benefits; planned class schedule integration |
-| **Aasmi** | Development | Implemented Smart Scheduling, designed in-app Chat & Rating system, and Eco-Friendly Incentives; encouraged sustainable commuting |
-| **Aavash** | Monetization | Implemented Subscription Plans and Freemium Model; outlined potential University Partnerships and financial benefits |
+| Team Member | Role | Contribution Summary |
+|------------|------|---------------------|
+| **Madiha** | Problem Analysis | Identified key transportation issues and user pain-points (cost, availability, car capacity, and networking gaps). Authored problem and motivation sections. |
+| **Mairesse** | Development | Implemented major parts of **Student Carpool Matching**, **Driver Verification**, and **Subscription Model**. Contributed heavily to HTML/JS integration and repository structure. |
+| **Aasmi** | Development | Implemented core logic for **Smart Scheduling**, designed **In-App Chat & Rating System**, and built **Eco-Friendly Incentives** framework. Led Git Flow setup, branch protection, release management, PR reviews, and contribution tracking. |
+| **Aavash** | Monetization | Designed Subscription Tiers and Freemium model, proposed University partnerships and financial benefits strategy. |
 
 
-## 3. Lessons Learned
+## 3. Lessons Learned  
 
-- **Professional Git Practices:** Branching, release branches, tagging, and semantic versioning ensure structured development.  
-- **Code Quality & Hooks:** Husky pre-commit hooks, lint-staged, and commitlint maintain consistent code style and commit messages.  
-- **Documentation:** Clear README and CHANGELOG improve usability and maintainability.  
-- **Collaboration:** Even with a small team, structured use of issues and project boards facilitated task tracking.  
-- **Recovery Awareness:** Practiced Git reflog, bisect, and cherry-pick to safely recover from mistakes.
+- **Git Workflow Mastery:**  
+  Learned how feature branches, release branches, PR reviews, and protected branches enhance stability and collaboration.
+
+- **Release Management:**  
+  Practiced semantic versioning, tagging, changelog maintenance, and structured release delivery.
+
+- **Documentation & Collaboration:**  
+  Creating clear README, CHANGELOG, and contributors documentation improved team alignment.
+
+- **Error Recovery:**  
+  Used Git reflog, bisect, and cherry-pick to diagnose and recover from mistakes.
+
+- **Agile Collaboration:**  
+  Using Issues + Project Board streamlined task assignment, progress tracking, and coordinated development.
 
 
 ## 4. Future Improvements
@@ -67,5 +77,6 @@ Semantic versioning (MAJOR.MINOR.PATCH) was applied:
 - **Mobile App Deployment:** Publish Driver Buddy to iOS/Android app stores for real user testing.  
 - **Expanded Features:** Multi-campus route optimization, in-app payments, and enhanced notifications/reminders.  
 - **Security & Compliance:** Implement privacy and safety checks, integrate two-factor authentication for drivers.  
+
 
 
