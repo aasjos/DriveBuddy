@@ -1,1 +1,29 @@
-placeholder for chat & rating feature
+Chat & Rating Module – Documentation
+
+Purpose:
+Enable communication between users and support feedback collection after rides.
+
+Chat Features:
+• Real-time text messaging
+• Typing indicators (planned)
+• Pre-set quick messages
+• Safety report option
+
+Rating Features:
+• 1–5 star rating scale
+• Optional written feedback
+• Combined average rating per user
+• Ride history linked to ratings
+
+Inputs:
+• User ID
+• Ride ID
+• Message text
+• Rating score
+• Feedback text
+
+Outputs:
+• Stored chat messages
+• Updated rating records
+• Safety flag notifications
+
