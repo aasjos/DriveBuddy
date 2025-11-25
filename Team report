@@ -1,0 +1,74 @@
+# Driver Buddy – Team Report
+
+## Project Name
+**Driver Buddy – Student Carpooling App**
+
+---
+
+## Team Members
+- **Aasmi Joshi**
+- **Madiha Masood**
+- **Mai**
+- **Aavash**
+
+---
+
+## Project Overview
+Driver Buddy is a student-focused carpooling app designed to make daily commutes more affordable, eco-friendly, and convenient. 
+The platform helps match students based on schedules, routes, and preferences. 
+It aims to improve campus transportation efficiency while reducing carbon emissions.
+
+---
+
+## Team Roles & Contributions
+
+### Aasmi
+- Worked on the initial project structure and repository setup.  
+- Helped design the user interface and front-end flow.  
+- Contributed to HTML page creation (problem, features, solutions pages).
+
+### Madiha
+- Developed written content including the problem statement, solution proposal, and project documentation.  
+- Assisted with UI improvements and feature refinement.  
+- Contributed to team coordination and presentation planning.
+
+### Mai
+- Worked on CSS styling, layout updates, and fixing design inconsistencies.  
+- Updated stylesheet links and resolved front-end formatting issues.  
+- Improved HTML organization and ensured visual consistency.
+
+### Aavash
+- Worked on JavaScript logic including app loading messages and workflow setup.  
+- Assisted with GitHub Actions workflow updates.  
+- Helped in debugging and code cleanup across the repository.
+
+---
+
+## Project Features
+- **Smart Scheduling** – Syncs with class schedules or allows manual input for automated ride matching.  
+- **In-App Chat & Ratings** – Secure communication between students and a rating system for safety.  
+- **Eco-Friendly Tracking** – Calculates CO₂ reduction and rewards active carpoolers.  
+
+---
+
+## Technologies Used
+- **HTML, CSS, JavaScript**  
+- **GitHub Pages for hosting**  
+- **GitHub for version control and collaboration**  
+- **GitHub Actions for workflow automation**
+
+---
+
+## Team Workflow
+- Used GitHub branches to manage individual contributions.  
+- Submitted Pull Requests for all major updates.  
+- Maintained documentation through README.md and CHANGELOG.md.  
+- Ensured consistency through regular team check-ins and code reviews.
+
+---
+
+## Future Improvements
+- Add login authentication using Firebase or Node.js.  
+- Integrate real-time location tracking.  
+- Build a mobile app version using React Native or Flutter.  
+- Implement analytics for trip efficiency and user patterns.
