@@ -1,1 +1,1 @@
-// Smart scheduling placeholder
+// Smart scheduling feature placeholder
