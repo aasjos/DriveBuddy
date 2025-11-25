@@ -92,4 +92,92 @@ Driver Buddy solves these issues by:
 * Campus event carpooling
 * University-backed safety features
 
+<div align="center">
+  <img src="docs/logo.png" alt="Project Logo" width="200"/>
+  
+  # Project Name
+  
+  [![Build Status](https://img.shields.io/github/workflow/status/aasjos/DriverBuddy/CI)](https://github.com/aasjos/DriverBuddy/actions)
+  [![Coverage](https://img.shields.io/codecov/c/github/aasjos/DriveBuddy)](https://codecov.io/gh/aasjos/DriveBuddy)
+  [![License](https://img.shields.io/github/license/aasjos/DriveBuddy)](LICENSE)
+  [![Version](https://img.shields.io/github/v/release/aasjos/DriveBuddy)](https://github.comaasjos/DriveBuddy/releases)
+  https://github.com/aasjos/DriverBuddy/issues
 
+  
+  **One-line description that sells your project**
+  
+  [Demo](https://demo-link.com) • [Documentation](https://docs-link.com) • [Report Bug](https://github.com/aasjos/DriveBuddy/issues)
+</div>
+
+## ✨ Features
+
+- 🚀 **Fast**: Optimized performance
+- 🔒 **Secure**: Industry-standard security
+- 📱 **Responsive**: Works on all devices
+- 🎨 **Customizable**: Flexible configuration
+
+## 📦 Installation
+
+\```bash
+# Using npm
+npm install your-project
+
+# Using yarn  
+yarn add your-project
+
+# Using Docker
+docker run -p 3000:3000 username/project
+\```
+
+## 🚀 Quick Start
+
+\```javascript
+import { YourProject } from 'your-project';
+
+const app = new YourProject({
+  // Configuration
+});
+
+app.start();
+\```
+
+## 📖 Documentation
+
+See [full documentation](https://your-docs.com) for:
+- [Getting Started](docs/getting-started.md)
+- [API Reference](docs/api.md)
+- [Examples](docs/examples.md)
+- [Contributing](CONTRIBUTING.md)
+
+## 🧪 Testing
+
+\```bash
+# Run tests
+npm test
+
+# With coverage
+npm run test:coverage
+
+# Watch mode
+npm run test:watch
+\```
+
+## 📊 Performance
+
+| Operation | Time | Memory |
+|-----------|------|--------|
+| Startup | 120ms | 15MB |
+| Request | 8ms | 2MB |
+| Build | 2.3s | 45MB |
+
+## 🤝 Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for:
+- Code of Conduct
+- Development setup
+- Pull request process
+- Coding standards
+
+## 📝 License
+
+MIT © [DRIVERBUDDY](LICENSE)
