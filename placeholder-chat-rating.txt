@@ -1,1 +1,1 @@
-// placeholder for chat & rating feature
+placeholder for chat & rating feature
