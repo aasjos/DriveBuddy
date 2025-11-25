@@ -9,13 +9,6 @@
 
 ---
 
-## 📘 Overview
-Driver Buddy is a mobile-first application that helps college students share rides, reduce transportation costs, and commute safely with verified peers.
-
-The app provides smart route-matching, scheduling, notifications, and in-app messaging, making carpooling simple and reliable.
-
----
-
 # Changelog
 ## v1.0.0 (2025-11-25)
 
@@ -24,18 +17,22 @@ The app provides smart route-matching, scheduling, notifications, and in-app mes
   - Matches drivers and riders based on similar routes
   - Considers preferred travel times
   - Notifies drivers when an additional nearby rider needs a pickup
+    
 - **Verified Student Profiles**
   - University email verification for all users
   - Optional driver document verification (insurance, safety checks)
+    
 - **Smart Scheduling**
   - Suggests optimal ride times
   - Detects scheduling conflicts
   - Syncs with student class schedules 
   - Sends ride reminders and notifications
+ 
 - **In-App Chat & Rating System**
   - Real-time messaging between drivers and riders
   - Rating system for both parties
   - Safety issue reporting
+    
 - **Eco-Friendly Incentives**
   - “Green Points” earned for every shared ride
   - Track carbon and fuel saved
@@ -50,5 +47,6 @@ The app provides smart route-matching, scheduling, notifications, and in-app mes
 
 ### Breaking Changes
 - None (v1.0.0 is fully backward compatible with v0.x prototypes)
+
 
 
