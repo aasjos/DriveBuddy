@@ -1,1 +1,21 @@
-// Smart scheduling feature placeholder
+Smart Scheduling – Documentation
+
+Purpose:
+The Smart Scheduling module ensures that drivers and riders receive the most efficient ride time suggestions.
+
+Inputs:
+- Driver availability
+- Rider availability
+- Class schedule
+- Historical ride data (optional)
+
+Outputs:
+- Suggested meeting time
+- Conflict alerts
+- Reminders and notifications
+
+Edge Cases:
+- Overlapping classes
+- Driver running late
+- Rider canceling last minute
+
