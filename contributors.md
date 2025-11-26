@@ -17,7 +17,6 @@ All development was done in feature branches off `develop`. Features included:
 - Smart Scheduling (automatic ride suggestions, class schedule integration, notifications)  
 - In-App Chat & Rating System (coordinate pickups, rate drivers/riders, report issues)  
 - Eco-Friendly Incentives (Green Points, CO₂ tracking, campus rewards)  
-- Subscription & Freemium Model (affordable plans with unlimited rides and premium features)
  
 
 ### Versioning
@@ -77,6 +76,7 @@ Semantic versioning (MAJOR.MINOR.PATCH) was applied:
 - **Mobile App Deployment:** Publish Driver Buddy to iOS/Android app stores for real user testing.  
 - **Expanded Features:** Multi-campus route optimization, in-app payments, and enhanced notifications/reminders.  
 - **Security & Compliance:** Implement privacy and safety checks, integrate two-factor authentication for drivers.  
+
 
 
 
