@@ -29,7 +29,7 @@ Students often face:
 * Limited or unreliable public transportation  
 * Wasted empty seats in cars  
 * Difficulty coordinating rides with peers  
-*  
+* Missed chances to interact with other students
 
 **Example scenario:**  
 > Students living in Denton often rely on public transportation to get to Schol campus. Buses may not reach all neighborhoods, requiring extra travel. Driver Buddy connects verified students traveling the same routes, making commuting safer, cheaper, and more predictable.
