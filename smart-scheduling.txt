@@ -10,9 +10,7 @@ Inputs:
 - Historical ride data (optional)
 
 Outputs:
-- Suggested meeting time
-- Conflict alerts
-- Reminders and notifications
+
 
 Edge Cases:
 - Overlapping classes
